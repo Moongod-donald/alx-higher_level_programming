@@ -1,6 +1,0 @@
-- Superclass, baseclass and parentclass
-- Subclass
-- Attributes, methods and instances of a class
-- Class inheritance
-- Default inheritance
-- isinstance, issubclass, type, super
